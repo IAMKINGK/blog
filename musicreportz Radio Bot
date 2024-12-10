@@ -17,7 +17,7 @@ To give Gradio 5 a spin, simply type in your terminal:
 pip install --upgrade gradio
 ```
 
-and start building your [first Gradio application](https://www.gradio.app/guides/quickstart).
+and start building your [first Gradio application](https://www.radio.app/guides/quickstart).
 
 ## Gradio 5: production-ready machine learning apps
 
